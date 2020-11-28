@@ -1,0 +1,9 @@
+﻿  Lab1.cpp
+d:\4\пммп\lab7\lab1\lab1.cpp(44): warning C4305: инициализация: усечение из "double" в "float"
+d:\4\пммп\lab7\lab1\lab1.cpp(290): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+d:\4\пммп\lab7\lab1\lab1.cpp(514): warning C4244: аргумент: преобразование "double" в "_Tp", возможна потеря данных
+          with
+          [
+              _Tp=int
+          ]
+  Lab1.vcxproj -> D:\4\ПММП\Lab7\x64\Debug\Lab1.exe
